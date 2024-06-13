@@ -1,4 +1,4 @@
 function Home(){
-    return <h1>Dataprev, estou pronta pra assinar a posse!!</h1>
+    return <h1>Menina dos olhos do mar...</h1>
 }
 export default Home;
